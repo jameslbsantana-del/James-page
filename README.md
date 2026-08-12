@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SITE ONLINE</title>
 </head>
-    </p>
+    </p> A administração de sistemas proprietários envolve o gerenciamento de softwares comerciais e fechados, como o Windows Server, com foco em licenças pagas, suporte oficial e uso de interfaces gráficas ou linhas de comando corporativas para garantir a estabilidade e a segurança da rede</p>
 <body>
     <h1>Meu Projeto de ASP </h1>
 

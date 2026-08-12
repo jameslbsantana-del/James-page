@@ -1,5 +1,5 @@
 # James-page
-<!DOCTYPE html>
+<index.html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">

@@ -13,5 +13,8 @@
     <p>Aluno: James Levi de Brito Santana </p>
     <p>Disciplina: Administração de Sistemas Proprietários</p>
     <p>Tema: Criação de um site na Web</p>
-</body>
+</body> </p> (Principais Atividades) Instalação e configuração: Ajustar servidores, estações de trabalho e serviços de rede conforme a demanda da empresa.
+Controle de acessos: Criar e gerenciar contas de usuários, definir permissões de pastas e grupos via diretórios centralizados.
+Atualizações e patches: Aplicar correções de segurança e updates oficiais fornecidos pelo fabricante do sistema.
+Monitoramento e backup: Acompanhar o uso de recursos (disco, memória) e rotinas de cópia de segurança.
 </html>
